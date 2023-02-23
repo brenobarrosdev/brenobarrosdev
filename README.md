@@ -1,5 +1,5 @@
 <h1 align="center"Brenobarros.dev! Um desenvolvedor focado e apaixonado por tecnologia...</h1>
-<div><a href="https://github.com/brenobarrosdev"><img align="center" alt="capa" width="100%" src="https://idocode.com.br/wp-content/uploads/2020/05/0-destaque-linguagens-de-programacao-2019.jpg.webp"/></div><br/>
+<div><a href="https://github.com/brenobarrosdev"><img align="center" alt="capa" width="100%" src="https://aigen.com.br/wp-content/uploads/2021/06/banner-3.png"/></div><br/>
 
 <h2 align="center">Minhas Redes</h2>  
   
@@ -17,7 +17,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenobarrosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-  ![Snake animation](https://github.com/brenobarrosdev/brenobarrosdev/blob/output/github-contribution-grid-snake.svg)
   
   <br/>
 
